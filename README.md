@@ -5,8 +5,8 @@ In this individual project, I applied both classification and regression approac
 The complete story is described in the pdf file. Code implementation can be found in the three ipynb notebooks.
 
 Data source:
-BOS:311 Service Requests
-https://data.boston.gov/dataset/311-service-requests
-Boston weather
-https://www.kaggle.com/jqpeng/boston-weather-data-jan-2013-apr-2018
-https://www.wunderground.com/history/daily/us/ma/boston/KBOS
+- BOS:311 Service Requests
+  https://data.boston.gov/dataset/311-service-requests
+- Boston weather
+  https://www.kaggle.com/jqpeng/boston-weather-data-jan-2013-apr-2018
+  https://www.wunderground.com/history/daily/us/ma/boston/KBOS
